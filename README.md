@@ -24,6 +24,8 @@ channel.QueueBind(queue: queueName,
                   exchange: "logs",
                   routingKey: string.Empty);
 
+9.远程应答模式（服务调用的根据）
+
 
 # 使用步骤
 1.docker安装镜像
