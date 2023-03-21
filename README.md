@@ -19,6 +19,10 @@ RabbitMQ使用测试、.net
 7.客户端监控（提供Api接口）
 http://xxx:15672/api/queues
 
+8.通过绑定 实现同一消息多人消费
+channel.QueueBind(queue: queueName,
+                  exchange: "logs",
+                  routingKey: string.Empty);
 
 
 # 使用步骤
