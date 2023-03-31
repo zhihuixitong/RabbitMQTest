@@ -13,6 +13,9 @@
         "packagesPath": "C:\\Users\\11747\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\11747\\source\\repos\\RabbitMQTest\\RabbitMQTest\\RabbitMQV2\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
           "C:\\Users\\11747\\NuGet.Config",
           "C:\\Users\\11747\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -54,7 +57,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -63,7 +67,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.416\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }

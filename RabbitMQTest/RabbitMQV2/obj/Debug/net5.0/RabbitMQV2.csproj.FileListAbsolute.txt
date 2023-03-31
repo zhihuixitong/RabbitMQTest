@@ -3,7 +3,6 @@ C:\Users\11747\source\repos\RabbitMQTest\RabbitMQTest\RabbitMQV2\bin\Debug\net5.
 C:\Users\11747\source\repos\RabbitMQTest\RabbitMQTest\RabbitMQV2\bin\Debug\net5.0\RabbitMQV2.runtimeconfig.json
 C:\Users\11747\source\repos\RabbitMQTest\RabbitMQTest\RabbitMQV2\bin\Debug\net5.0\RabbitMQV2.runtimeconfig.dev.json
 C:\Users\11747\source\repos\RabbitMQTest\RabbitMQTest\RabbitMQV2\bin\Debug\net5.0\RabbitMQV2.dll
-C:\Users\11747\source\repos\RabbitMQTest\RabbitMQTest\RabbitMQV2\bin\Debug\net5.0\ref\RabbitMQV2.dll
 C:\Users\11747\source\repos\RabbitMQTest\RabbitMQTest\RabbitMQV2\bin\Debug\net5.0\RabbitMQV2.pdb
 C:\Users\11747\source\repos\RabbitMQTest\RabbitMQTest\RabbitMQV2\bin\Debug\net5.0\RabbitMQ.Client.dll
 C:\Users\11747\source\repos\RabbitMQTest\RabbitMQTest\RabbitMQV2\obj\Debug\net5.0\RabbitMQV2.csproj.AssemblyReference.cache
@@ -16,3 +15,4 @@ C:\Users\11747\source\repos\RabbitMQTest\RabbitMQTest\RabbitMQV2\obj\Debug\net5.
 C:\Users\11747\source\repos\RabbitMQTest\RabbitMQTest\RabbitMQV2\obj\Debug\net5.0\ref\RabbitMQV2.dll
 C:\Users\11747\source\repos\RabbitMQTest\RabbitMQTest\RabbitMQV2\obj\Debug\net5.0\RabbitMQV2.pdb
 C:\Users\11747\source\repos\RabbitMQTest\RabbitMQTest\RabbitMQV2\obj\Debug\net5.0\RabbitMQV2.genruntimeconfig.cache
+C:\Users\11747\source\repos\RabbitMQTest\RabbitMQTest\RabbitMQV2\obj\Debug\net5.0\refint\RabbitMQV2.dll

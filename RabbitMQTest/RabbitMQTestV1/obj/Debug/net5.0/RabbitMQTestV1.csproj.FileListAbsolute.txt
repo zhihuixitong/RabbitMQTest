@@ -5,7 +5,6 @@ C:\Users\11747\source\repos\RabbitMQTest\RabbitMQTest\RabbitMQTestV1\bin\Debug\n
 C:\Users\11747\source\repos\RabbitMQTest\RabbitMQTest\RabbitMQTestV1\bin\Debug\net5.0\RabbitMQTestV1.runtimeconfig.json
 C:\Users\11747\source\repos\RabbitMQTest\RabbitMQTest\RabbitMQTestV1\bin\Debug\net5.0\RabbitMQTestV1.runtimeconfig.dev.json
 C:\Users\11747\source\repos\RabbitMQTest\RabbitMQTest\RabbitMQTestV1\bin\Debug\net5.0\RabbitMQTestV1.dll
-C:\Users\11747\source\repos\RabbitMQTest\RabbitMQTest\RabbitMQTestV1\bin\Debug\net5.0\ref\RabbitMQTestV1.dll
 C:\Users\11747\source\repos\RabbitMQTest\RabbitMQTest\RabbitMQTestV1\bin\Debug\net5.0\RabbitMQTestV1.pdb
 C:\Users\11747\source\repos\RabbitMQTest\RabbitMQTest\RabbitMQTestV1\bin\Debug\net5.0\Microsoft.OpenApi.dll
 C:\Users\11747\source\repos\RabbitMQTest\RabbitMQTest\RabbitMQTestV1\bin\Debug\net5.0\RabbitMQ.Client.dll
@@ -20,7 +19,6 @@ C:\Users\11747\source\repos\RabbitMQTest\RabbitMQTest\RabbitMQTestV1\obj\Debug\n
 C:\Users\11747\source\repos\RabbitMQTest\RabbitMQTest\RabbitMQTestV1\obj\Debug\net5.0\RabbitMQTestV1.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\11747\source\repos\RabbitMQTest\RabbitMQTest\RabbitMQTestV1\obj\Debug\net5.0\RabbitMQTestV1.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\11747\source\repos\RabbitMQTest\RabbitMQTest\RabbitMQTestV1\obj\Debug\net5.0\staticwebassets\RabbitMQTestV1.StaticWebAssets.Manifest.cache
-C:\Users\11747\source\repos\RabbitMQTest\RabbitMQTest\RabbitMQTestV1\obj\Debug\net5.0\staticwebassets\RabbitMQTestV1.StaticWebAssets.xml
 C:\Users\11747\source\repos\RabbitMQTest\RabbitMQTest\RabbitMQTestV1\obj\Debug\net5.0\scopedcss\bundle\RabbitMQTestV1.styles.css
 C:\Users\11747\source\repos\RabbitMQTest\RabbitMQTest\RabbitMQTestV1\obj\Debug\net5.0\RabbitMQTestV1.RazorTargetAssemblyInfo.cache
 C:\Users\11747\source\repos\RabbitMQTest\RabbitMQTest\RabbitMQTestV1\obj\Debug\net5.0\RabbitMQTestV1.csproj.CopyComplete
@@ -28,3 +26,10 @@ C:\Users\11747\source\repos\RabbitMQTest\RabbitMQTest\RabbitMQTestV1\obj\Debug\n
 C:\Users\11747\source\repos\RabbitMQTest\RabbitMQTest\RabbitMQTestV1\obj\Debug\net5.0\ref\RabbitMQTestV1.dll
 C:\Users\11747\source\repos\RabbitMQTest\RabbitMQTest\RabbitMQTestV1\obj\Debug\net5.0\RabbitMQTestV1.pdb
 C:\Users\11747\source\repos\RabbitMQTest\RabbitMQTest\RabbitMQTestV1\obj\Debug\net5.0\RabbitMQTestV1.genruntimeconfig.cache
+C:\Users\11747\source\repos\RabbitMQTest\RabbitMQTest\RabbitMQTestV1\bin\Debug\net5.0\RabbitMQTestV1.StaticWebAssets.xml
+C:\Users\11747\source\repos\RabbitMQTest\RabbitMQTest\RabbitMQTestV1\obj\Debug\net5.0\staticwebassets\RabbitMQTestV1.StaticWebAssets.Pack.cache
+C:\Users\11747\source\repos\RabbitMQTest\RabbitMQTest\RabbitMQTestV1\obj\Debug\net5.0\staticwebassets\msbuild.RabbitMQTestV1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\11747\source\repos\RabbitMQTest\RabbitMQTest\RabbitMQTestV1\obj\Debug\net5.0\staticwebassets\msbuild.build.RabbitMQTestV1.props
+C:\Users\11747\source\repos\RabbitMQTest\RabbitMQTest\RabbitMQTestV1\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.RabbitMQTestV1.props
+C:\Users\11747\source\repos\RabbitMQTest\RabbitMQTest\RabbitMQTestV1\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.RabbitMQTestV1.props
+C:\Users\11747\source\repos\RabbitMQTest\RabbitMQTest\RabbitMQTestV1\obj\Debug\net5.0\refint\RabbitMQTestV1.dll

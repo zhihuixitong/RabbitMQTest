@@ -16,3 +16,4 @@ C:\Users\11747\source\repos\RabbitMQTest\RabbitMQTest\RabbitMQV2-Push\obj\Debug\
 C:\Users\11747\source\repos\RabbitMQTest\RabbitMQTest\RabbitMQV2-Push\obj\Debug\net5.0\ref\RabbitMQV2-Push.dll
 C:\Users\11747\source\repos\RabbitMQTest\RabbitMQTest\RabbitMQV2-Push\obj\Debug\net5.0\RabbitMQV2-Push.pdb
 C:\Users\11747\source\repos\RabbitMQTest\RabbitMQTest\RabbitMQV2-Push\obj\Debug\net5.0\RabbitMQV2-Push.genruntimeconfig.cache
+C:\Users\11747\source\repos\RabbitMQTest\RabbitMQTest\RabbitMQV2-Push\obj\Debug\net5.0\refint\RabbitMQV2-Push.dll

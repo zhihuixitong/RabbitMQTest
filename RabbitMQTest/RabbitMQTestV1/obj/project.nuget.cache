@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "5hz5quoNnjhWdiZJ8qV7TItGJDm0YnExyPZPZkQYfTnRsdKCA0UqJQnR7A6vTVZBmtRajO8c4Hv24m4sYj/80Q==",
+  "dgSpecHash": "02s5h/PMl2JZ4/jgmxCnxJOdKnbtEvjnjUh2resxlQQQHDUDUFcqlmwSqOeDkL3UXwUJ6d0ZtYFsm5w5EzIz1A==",
   "success": true,
   "projectFilePath": "C:\\Users\\11747\\source\\repos\\RabbitMQTest\\RabbitMQTest\\RabbitMQTestV1\\RabbitMQTestV1.csproj",
   "expectedPackageFiles": [
@@ -14,5 +14,12 @@
     "C:\\Users\\11747\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
     "C:\\Users\\11747\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://101.200.39.154:9010/nuget'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
 }

@@ -9,10 +9,14 @@
           "System.Threading.Channels": "4.7.1"
         },
         "compile": {
-          "lib/netstandard2.0/RabbitMQ.Client.dll": {}
+          "lib/netstandard2.0/RabbitMQ.Client.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
-          "lib/netstandard2.0/RabbitMQ.Client.dll": {}
+          "lib/netstandard2.0/RabbitMQ.Client.dll": {
+            "related": ".xml"
+          }
         }
       },
       "System.Memory/4.5.4": {
@@ -27,10 +31,14 @@
       "System.Threading.Channels/4.7.1": {
         "type": "package",
         "compile": {
-          "lib/netcoreapp3.0/System.Threading.Channels.dll": {}
+          "lib/netcoreapp3.0/System.Threading.Channels.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
-          "lib/netcoreapp3.0/System.Threading.Channels.dll": {}
+          "lib/netcoreapp3.0/System.Threading.Channels.dll": {
+            "related": ".xml"
+          }
         }
       }
     }
@@ -106,7 +114,8 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\11747\\.nuget\\packages\\": {}
+    "C:\\Users\\11747\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
@@ -117,6 +126,9 @@
       "packagesPath": "C:\\Users\\11747\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\11747\\source\\repos\\RabbitMQTest\\RabbitMQTest\\RabbitMQV2-Push\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
         "C:\\Users\\11747\\NuGet.Config",
         "C:\\Users\\11747\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -158,7 +170,8 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -167,8 +180,16 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.416\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://101.200.39.154:9010/nuget'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
 }
